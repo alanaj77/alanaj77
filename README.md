@@ -42,7 +42,7 @@ Here are the technologies I work with most frequently to bring my ideas to life:
 
 ### 📊 GitHub Stats
 
-*(To make these work, just replace `alanaj77` in the links below with your actual GitHub username!)*
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanaj77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
